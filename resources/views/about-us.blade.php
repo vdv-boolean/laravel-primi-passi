@@ -7,7 +7,7 @@
     </head>
     <body>
         <h1>Hello World</h1>
-        <span>Questa è la home</span>
+        <span>Questa è la pagina su chi siamo</span>
         <ul>
             <li>
                 <a href="/">Home</a>  

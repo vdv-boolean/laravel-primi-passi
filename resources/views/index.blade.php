@@ -7,5 +7,20 @@
     </head>
     <body>
         <h1>Hello World</h1>
+        <span>Questa è la home</span>
+        <ul>
+            <li>
+                <a href="/">Home</a>  
+            </li>
+            <li>
+                <a href="/about-us">Chi siamo</a>  
+            </li>
+            <li>
+                <a href="/blog">Blog</a>  
+            </li>
+            <li>
+                <a href="/contacts">Contatti</a>  
+            </li>
+        </ul>
     </body>
 </html>
